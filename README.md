@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alejandro!
 
-🎓 I'm an international student currently pursuing a second bachelor's degree in **Electrical Engineering** at Florida International University (FIU). I also hold a degree in **Finance and International Business** and have experience working in the **manufacturing** and **mining equipment** industries.
+🎓 I'm an international student currently pursuing a second bachelor's degree in **Electrical Engineering** at Florida International University (FIU). I also hold a degree in **Finance and International Business** and have experience working in the **mining equipment** industry.
 
 💡 I’m passionate about technology, engineering, and leveraging my diverse background to solve complex problems. My goal is to create innovative solutions that bridge the gap between business and engineering.
 
